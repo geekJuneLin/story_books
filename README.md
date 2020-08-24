@@ -9,19 +9,21 @@
 
 ### Functionalty
 
-[ ] login with google
-[ ] log out
-[ ] if not login cannot access any routes (protecting routes)
+- [ ] login with google
+- [ ] log out
+- [ ] if not login cannot access any routes (protecting routes)
 
 -- Dashborad
-[ ] display a list of stories of the logged in account
-[ ] create a new story
-[ ] delete a story
-[ ] edit a story
+
+- [ ] display a list of stories of the logged in account
+- [ ] create a new story
+- [ ] delete a story
+- [ ] edit a story
 
 -- Public Story board
-[ ] display all the public stories
-[ ] Only can edit the story that belongs to the current logged in user
+
+- [ ] display all the public stories
+- [ ] Only can edit the story that belongs to the current logged in user
 
 -- Data -> Story
 [ ] Title
