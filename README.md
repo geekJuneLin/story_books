@@ -26,7 +26,8 @@
 - [ ] Only can edit the story that belongs to the current logged in user
 
 -- Data -> Story
-[ ] Title
-[ ] Content
-[ ] Created date
-[ ] Status (public or private)
+
+- [ ] Title
+- [ ] Content
+- [ ] Created date
+- [ ] Status (public or private)
